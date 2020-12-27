@@ -15,12 +15,17 @@ contributor:
     gutenberg_agent_id: '90'
     url: http://www.gutenberg.org/2009/agents/90
     wikipedia: https://en.wikipedia.org/wiki/George_Eliot
+covers:
+- cover_type: archival
+  image_path: 64037-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Strauss, David Friedrich
     gutenberg_agent_id: '52725'
     url: http://www.gutenberg.org/2009/agents/52725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64037#The-Life-of-Jesus-Critically-Examined-4th-ed
 gutenberg_issued: '2020-12-13'
 gutenberg_type: Text
 identifiers:
