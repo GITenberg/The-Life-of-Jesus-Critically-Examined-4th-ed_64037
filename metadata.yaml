@@ -1,0 +1,37 @@
+_repo: The-Life-of-Jesus-Critically-Examined-4th-ed_64037
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Eliot, George
+    aliases:
+    - Lewes, Marian Evans
+    - Cross, Marian Evans
+    - Evans, Marian
+    - Cross, Mary Ann
+    - Evans, Mary Anne
+    - Lewes, M. E. (Marian Evans)
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: https://en.wikipedia.org/wiki/George_Eliot
+creator:
+  author:
+    agent_name: Strauss, David Friedrich
+    gutenberg_agent_id: '52725'
+    url: http://www.gutenberg.org/2009/agents/52725
+description: ''
+gutenberg_issued: '2020-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Life of Jesus Critically Examined
+
+  (4th ed.)'
+url: http://www.gutenberg.org/ebooks/64037
